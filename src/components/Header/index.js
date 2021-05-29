@@ -27,7 +27,7 @@ const Header = () => {
               </CustomIcon>
             </Hamburger>
             <DeskMenu>
-              <MenuLink to="https://youtube.com">About Us</MenuLink>
+              <MenuLink href="https://youtube.com">About Us</MenuLink>
               <MenuLink to="#">The Team</MenuLink>
               <MenuLink to="#">Videos</MenuLink>
             </DeskMenu>
